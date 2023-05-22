@@ -1,43 +1,12 @@
-instagram-swift
-
-# Parstagram - Part II
-
-This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
-
-Time spent: **10** hours spent in total
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments
 
 ## User Stories
 
-The following **required** functionality is completed:
-
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can log out. (1pt)
-- [x] User can view comments on a post. (3pts)
-- [x] User can add a new comment. (5pts)
-
-## Video Walkthrough
+User can stay logged in across restarts, log out, view comments on posts and add their own comments.
 
 ![](https://media.giphy.com/media/zP5TOU8A0rFbK7Pff4/giphy.gif)
 
-# Parstagram - Part I
 
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
-
-Time spent: **10** hours spent in total
-
-## User Stories
-
-The following **required** functionality is completed:
-
-- [X] User sees app icon in home screen and styled launch screen. (1pt)
-- [x] User can sign up to create a new account. (1pt)
-- [x] User can log in. (1pt)
-- [x] User can take a photo, add a caption, and post it to the server. (3pt)
-- [x] User can view the last 20 posts. (4pts)
-
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+User can sign up to create a new account, log in, take a photo and add a caption, pist it to the server, as well as view photos.
 
 ![](https://media.giphy.com/media/cb8JgtZ1lsHqPfQCz7/giphy.gif)
